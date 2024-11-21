@@ -1,5 +1,0 @@
-devops
-jdk
-maven
-git
-
